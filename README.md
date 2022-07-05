@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JessieYANG
+- 👀 I’m interested in full-stack projects
+- 🌱 I’m currently learning full-stack projects
+- 💞️ I’m looking to collaborate on full-stack projects
+- 📫 How to reach me jessieyang0313@hotmail.com
